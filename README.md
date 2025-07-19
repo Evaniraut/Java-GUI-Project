@@ -15,7 +15,11 @@ This project presents the design, implementation, and testing of a Java-based gr
 - Class diagrams depicting the GUI structure  
 - Pseudocode and method descriptions  
 - Testing results with error detection and resolution  
-- Conclusion and references  
+- Conclusion and references
+  
+## Files in this Repo  
+- [23047473_EvaniRaut_Programming/Documentation](./23047473_EvaniRaut_Programming/Documentation) — Full project documentation  
+- [23047473_EvaniRaut_Programming/Development/23047473_EvaniRaut](./23047473_EvaniRaut_Programming/Development/23047473_EvaniRaut) — Development files and source code  
 
 ## Key Learnings  
 - GUI design and implementation in Java  
