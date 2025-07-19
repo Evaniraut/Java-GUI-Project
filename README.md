@@ -3,14 +3,14 @@
 ##  Project Overview  
 This project involves the design, implementation, and testing of a Java-based TeacherGUI application. It focuses on class design, pseudocode, and thorough error detection covering syntax, semantics, and logical errors. The report includes detailed test cases and analysis.
 
-## 📌 Objectives  
+## Objectives  
 - Understand object-oriented design through class diagrams  
 - Write pseudocode and implement the TeacherGUI application  
 - Identify and document common programming errors  
 - Perform multiple tests to validate the program  
 - Provide comprehensive project documentation  
 
-## 🗂️ Contents  
+## Contents  
 - Introduction and project background  
 - Tools used for development and documentation  
 - Class diagrams illustrating program structure  
@@ -19,7 +19,7 @@ This project involves the design, implementation, and testing of a Java-based Te
 - Conclusion and references  
 
 
-## 📚 Key Learnings  
+## Key Learnings  
 - Object-oriented design and implementation  
 - Writing clear pseudocode for complex methods  
 - Detecting and fixing syntax, semantic, and logical errors  
