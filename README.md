@@ -1,36 +1,34 @@
-# JavaGUI-GUI-Project
-
+# JavaGUI-Project
 ##  Project Overview  
-This project involves the design, implementation, and testing of a Java-based TeacherGUI application. It focuses on class design, pseudocode, and thorough error detection covering syntax, semantics, and logical errors. The report includes detailed test cases and analysis.
+This project presents the design, implementation, and testing of a Java-based graphical user interface (GUI) called TeacherGUI. It includes detailed class diagrams, pseudocode, and comprehensive error detection covering syntax, semantic, and logical errors. The report documents testing outcomes and analysis.
 
 ## Objectives  
-- Understand object-oriented design through class diagrams  
-- Write pseudocode and implement the TeacherGUI application  
-- Identify and document common programming errors  
-- Perform multiple tests to validate the program  
-- Provide comprehensive project documentation  
+- Design and implement a functional GUI application  
+- Create clear pseudocode describing program logic  
+- Identify and explain different types of programming errors  
+- Conduct thorough testing of the application  
+- Produce detailed documentation of the project  
 
-## Contents  
-- Introduction and project background  
+##  Contents  
+- Introduction and background of the TeacherGUI project  
 - Tools used for development and documentation  
-- Class diagrams illustrating program structure  
+- Class diagrams depicting the GUI structure  
 - Pseudocode and method descriptions  
-- Testing results with error identification  
+- Testing results with error detection and resolution  
 - Conclusion and references  
 
-
 ## Key Learnings  
-- Object-oriented design and implementation  
-- Writing clear pseudocode for complex methods  
+- GUI design and implementation in Java  
+- Writing pseudocode for GUI functionalities  
 - Detecting and fixing syntax, semantic, and logical errors  
-- Documenting test results and creating professional reports  
+- Documenting testing procedures and outcomes  
 
 ---
 
 ## How to Run  
-- Open the source code in any Java IDE (BlueJ, Eclipse, IntelliJ IDEA)  
-- Compile and run the application  
-- Follow the test scenarios outlined in the report for validation  
+- Open the source code in a Java IDE such as BlueJ, Eclipse, or IntelliJ IDEA  
+- Compile and run the TeacherGUI application  
+- Follow test cases as described in the report for validation  
 
 ---
 
